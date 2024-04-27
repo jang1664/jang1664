@@ -1,4 +1,4 @@
-### Hi there 👋
+"I am pursuing a doctoral course in deep learning accelerator architecture research at Seoul National University in Korea. My interests revolve around deep learning accelerator architecture, accelerator compilers, and model lightweighting."
 
 <!--
 **jang1664/jang1664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
